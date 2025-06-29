@@ -1,4 +1,4 @@
-# 🚀 SubChain — Unlimited Concurrent Browsing Engine  
+# 🚀 SubChain — Fast, Efficient, and Built for Security Research  
 **Modern tools for researchers, analysts, and hackers**
 
 > ⚠️ Chrome crashes at 100 tabs. Firefox slows down at 120.  
@@ -8,7 +8,10 @@
 
 ### 💡 What is SubChain?
 
-**SubChain** is a next-gen browsing platform built for power users — security researchers, analysts, OSINT enthusiasts, and red teamers. It features a zero-crash architecture, smart memory management, and built-in reconnaissance tools that go far beyond anything browsers offer today.
+*SubChain* is a tool built for bug bounty hunters and security researchers. It helps you quickly explore and analyze thousands of websites or subdomains without slowing down your system.
+
+You can scroll through targets like TikTok videos and use built-in tools like port scanners, tech stack detection, proxy routing, and URL intelligence — all in one place. It’s fast, lightweight, and made to simplify your recon process.
+Whether you're finding subdomains, identifying vulnerabilities, or managing hundreds of targets, SubChain keeps everything smooth and organized.
 
 ---
 
